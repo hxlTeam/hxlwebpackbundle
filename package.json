@@ -1,0 +1,28 @@
+{
+  "name": "hxlwebpackbundle",
+  "version": "1.0.0",
+  "description": "实现bundle 理解webpack打包原理",
+  "main": "bundle.js",
+  "dependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6"
+  },
+  "devDependencies": {
+    "@babel/parser": "^7.9.6",
+    "@babel/traverse": "^7.9.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hxlTeam/hxlwebpackbundle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hxlTeam/hxlwebpackbundle/issues"
+  },
+  "homepage": "https://github.com/hxlTeam/hxlwebpackbundle#readme"
+}
